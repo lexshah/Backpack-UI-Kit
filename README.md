@@ -14,7 +14,7 @@ Backpack is a Free UI Kit for Adobe XD to design social experiences with travele
 </a>
 
 <a>
-  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/1400/3b4afd69411833.5b924a81ad561.png" width="" />
+  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/1400/125b7169411833.5b81543d7491c.png" width="" />
 </a>
 
 <a>
